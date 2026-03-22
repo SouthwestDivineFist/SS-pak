@@ -1,10 +1,13 @@
 {
   "name": "SS",
-  "version": "v1.9.0",
+  "version": "1.9.0",
   "type": "EMU",
-  "description": "Yaba Sanshiro standalone emulator",
+  "description": "Yaba Sanshiro standalone emulator for Sega Saturn",
   "author": "SouthwestDivineFist",
   "repo_url": "https://github.com/SouthwestDivineFist/SS-pak",
   "release_filename": "SS.pak.zip",
-  "platforms": ["tg5040", "tg5050"]
+  "platforms": [
+    "tg5040",
+    "tg5050"
+  ]
 }
